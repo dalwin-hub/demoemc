@@ -1,2 +1,3 @@
 This is dummy file
 today is friday 9-2-2024
+Written in git
