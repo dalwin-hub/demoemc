@@ -1,1 +1,3 @@
 two
+filter["vendorContact.$.contactLastName"] = bson.M{"$ne": nil}
+filter["vendorContact.$.contactLastName"] = bson.M{"$ne": ""}
